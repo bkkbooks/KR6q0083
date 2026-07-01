@@ -1,0 +1,249 @@
+canonical_identifier: bkk:krp/KR6q0083/v1
+canonical_location: https://kanripo.org/bkk/KR6q0083/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 六祖大師法寶壇經
+  identifiers:
+    alt_id:
+    - T48n2008
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T48/T48n2008.xml
+    old_id: T48n2008
+  edition:
+    short: bkk
+editions:
+- short: 宮
+  label: 宮
+  source_xml_id: wit1
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0083_000.yaml, hash: 'sha256:f64d5cd55447025db801fd7b6e3d654f24fd9e4af8dac3ef2d33ad8605cdb92f'}
+  - {seq: 1, filename: KR6q0083_001.yaml, hash: 'sha256:95a542011cb10fa4de6f751cfa21280003ef0a4e208d8c3079710e41255eef2d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0083_000.markers.yaml, hash: 'sha256:9c3d0b269eaecec74f6be5b26856e5ad18d70fffaae639fe0b9f8473b84c5519'}
+  - {seq: 1, role: markers, filename: assets/KR6q0083_001.markers.yaml, hash: 'sha256:8c5ac7b4e099872ce7c859968ad4213b40539152ff7aa5cf31de54c348c099f2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0083_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 六祖大師法寶壇經目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0083_T_000-mulu-2
+    span:
+    - front
+    - 89
+    - 89
+  label: 六祖大師法寶壇經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0083_T_000-mulu-3
+    span:
+    - front
+    - 585
+    - 585
+  label: 六祖大師法寶壇經贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 23261
+  label: 六祖大師法寶壇經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 1 行由
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-2
+    span:
+    - body
+    - 3135
+    - 3135
+  label: 2 般若
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-3
+    span:
+    - body
+    - 5518
+    - 5518
+  label: 3 疑問
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-4
+    span:
+    - body
+    - 6791
+    - 6791
+  label: 4 定慧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-5
+    span:
+    - body
+    - 7659
+    - 7659
+  label: 5 坐禪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-6
+    span:
+    - body
+    - 7985
+    - 7985
+  label: 6 懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-7
+    span:
+    - body
+    - 10007
+    - 10007
+  label: 7 機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-8
+    span:
+    - body
+    - 14305
+    - 14305
+  label: 8 頓漸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-9
+    span:
+    - body
+    - 16255
+    - 16255
+  label: 9 宣詔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-10
+    span:
+    - body
+    - 16905
+    - 16905
+  label: 10 付囑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-11
+    span:
+    - body
+    - 19952
+    - 19952
+  label: 附錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-12
+    span:
+    - body
+    - 19954
+    - 19954
+  label: 六祖大師緣起外紀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-13
+    span:
+    - body
+    - 21154
+    - 21154
+  label: 歷朝崇奉事蹟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-14
+    span:
+    - body
+    - 21253
+    - 21253
+  label: 賜諡大鑒禪師碑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-15
+    span:
+    - body
+    - 21925
+    - 21925
+  label: 大鑒禪師碑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-16
+    span:
+    - body
+    - 22402
+    - 22402
+  label: 佛衣銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0083_T_001-mulu-17
+    span:
+    - body
+    - 22959
+    - 22959
+  label: 跋
+  type: mulu
+  level: 1
+hash: sha256:9a76a5f53cbed40e4ec0b51f2a89440d218785e9a207961d5577b3d27b87e963
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
