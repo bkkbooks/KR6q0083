@@ -27,17 +27,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0083_000.yaml, hash: 'sha256:2d5ee3eab1e2730b2721969bee72c386fec1408a27faa0abdd8281f1beadb1c2'}
+  - {seq: 0, filename: KR6q0083_000.yaml, hash: 'sha256:c638e6795f8ec95517fba4f60b9f35734205eadb71b868ff6d4d16e6c2658a9a'}
   - {seq: 1, filename: KR6q0083_001.yaml, hash: 'sha256:b3a3b89cff60726478fef54e23b751bd0e268c2466d64f8adbe1d62fa0c63300'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0083_000.markers.yaml, hash: 'sha256:3cc9021847e132df797a77cc87950e580f45688d4c8217f5060af82c2c16dc5c'}
+  - {seq: 0, role: markers, filename: assets/KR6q0083_000.markers.yaml, hash: 'sha256:0f4c2f5c1d95a159a7fb2111d55f1b4817f35ee03596fe0db6ed1b78c84caa9b'}
   - {seq: 1, role: markers, filename: assets/KR6q0083_001.markers.yaml, hash: 'sha256:db99f6e0648f81757e90a8ec6e8363a1438354a202562a0d7ae34cda3d0397a1'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0083_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 六祖大師法寶壇經目錄
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0083_T_000-mulu-2
     span:
-    - front
+    - body
     - 89
     - 89
   label: 六祖大師法寶壇經序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0083_T_000-mulu-3
     span:
-    - front
+    - body
     - 585
     - 585
   label: 六祖大師法寶壇經贊
@@ -243,7 +243,7 @@ table_of_contents:
   label: 跋
   type: mulu
   level: 1
-hash: sha256:3347ed2e76c32303dbf1288b9bef71ce4290e8b0f1e203712ea21ad359fe83ca
+hash: sha256:e3420e75f278a2163ceacda7509dac8e9db3b3eaa9ae79bf617539d4c60050cc
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
